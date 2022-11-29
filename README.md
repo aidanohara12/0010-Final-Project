@@ -5,7 +5,7 @@ The Speed Racers
 Aidan O'Hara (ato22@pitt.edu) and Dylan Sparkenbaugh (djs231@pitt.edu)
 
 
-We are looking for the best neighborhood in Pittsburgh to speed in. We used datasets and information to try and find what neighborhood is the "best".
+We are looking for the best neighborhood in Pittsburgh to speed in. We used the following datasets and information to try and find what neighborhood is the "best".
 
 Datasets used:
 
